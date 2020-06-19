@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Save Receipts 
     description                           : Save all your receipts in one place, you don’t have to worry anymore about losing your paper receipt.
-    fontawesome_icon_name                 : savw
+    fontawesome_icon_name                 : save
 
   - title                                 : Reminder notifications
     description                           : Get notified when your warranty for the items you save is due to expire.
