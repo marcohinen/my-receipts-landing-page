@@ -34,29 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Scan Receipts
+    description                           : Quickly scan receipt with our in-built receipt scanner. Or You could also import existing receipts that you have in your photo library.
+    fontawesome_icon_name                 : receipt
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Save Receipts 
+    description                           : Save all your receipts in one place, you don’t have to worry anymore about losing your paper receipt.
+    fontawesome_icon_name                 : savw
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Reminder notifications
+    description                           : Get notified when your warranty for the items you save is due to expire.
+    fontawesome_icon_name                 : bell
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : No Accounts required 
+    description                           : You don’t have to create an account to use the  app. Just download it and get started straight away.
+    fontawesome_icon_name                 : user-circle
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Privacy
+    description                           : MyReceipts does not have access to any of your data and never will. All of your receipts are just that, yours.
+    fontawesome_icon_name                 : lock
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Dark mode 
+    description                           : We know that a lot of people love dark mode. That’s why we support it.
+    fontawesome_icon_name                 : moon
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
