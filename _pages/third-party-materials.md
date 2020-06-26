@@ -13,6 +13,11 @@ This page contains credit for Third-Party Materials that were in creating this p
 ## Icons
 <http://www.flaticon.com>
 
+## Illustrations
+<https://icons8.com/>
+
+## Animations 
+<https://lottiefiles.com/>
 
 ## Tutorials
 
