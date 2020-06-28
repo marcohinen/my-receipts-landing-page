@@ -14,16 +14,19 @@ This page contains credit for Third-Party Materials that were used in creating t
 <http://www.flaticon.com>
 
 ## Illustrations
-<https://icons8.com/>
+<https://icons8.com>
 
 ## Animations 
-<https://lottiefiles.com/>
+<https://lottiefiles.com>
+
+## Web Landing Page
+<https://github.com/emilbaehr/automatic-app-landing-page>
 
 ## Tutorials
 
 VisionKit
  
-<https://schiavo.me/2019/scanning-documents/>
+<https://schiavo.me/2019/scanning-documents>
 
 
 Custom Text Fields
