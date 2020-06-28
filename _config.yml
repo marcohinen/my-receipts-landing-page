@@ -35,11 +35,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Scan Receipts
-    description                           : Quickly scan receipt with our in-built receipt scanner. Or You could also import existing receipts that you have in your photo library.
+    description                           : Quickly scan receipts with our in-built receipt scanner. Or you could also import existing receipts that you have in your photo library.
     fontawesome_icon_name                 : receipt
     
   - title                                 : Save Receipts 
-    description                           : Save all your receipts in one place, you don’t have to worry anymore about losing your paper receipt.
+    description                           : Save all your receipts in one place, you don’t have to worry anymore about losing your paper receipts.
     fontawesome_icon_name                 : save
 
   - title                                 : Reminder notifications

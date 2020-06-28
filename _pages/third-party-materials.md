@@ -6,7 +6,7 @@ include_in_header: false
 
 # Third-Party Materials
 
-This page contains credit for Third-Party Materials that were in creating this project 
+This page contains credit for Third-Party Materials that were used in creating this project 
 
 
 
